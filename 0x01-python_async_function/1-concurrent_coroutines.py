@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''Task 1's module.
+'''Module for concurrent_coroutines.py
 '''
 import asyncio
 from typing import List
